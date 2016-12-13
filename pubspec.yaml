@@ -1,0 +1,6 @@
+name: flutter_todos
+description: A new flutter project.
+dependencies:
+  flutter:
+    sdk: flutter
+  uuid: 0.5.0
